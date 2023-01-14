@@ -22,7 +22,7 @@ If you want you can clone this repo manually, oterwise use HACS (Recommended).
 3. Restart Home Assistant
 4. Go to the Integrations Page and Click +Add Integration button
 5. Search for Eufy Robovac and select it
-6. Enter your Eufy username and password (The ones you use to login to the add with) and submit
+6. Enter your Eufy username and password (The ones you use to login to the app with) and submit
 7. If youve done it correctly you should get a success dialoge and option to enter an Area for each RoboVac you have
 8. Click Finish
 9. On the Integrations Screen Locate your Eufy Robovac card and click the configure button
